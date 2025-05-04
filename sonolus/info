@@ -1,1 +1,19 @@
-{"title":"Sonolus Level Packer","buttons":[],"configuration":{"options":[]}}
+{
+    "title": "Wanpatan",
+    "buttons": [
+      {
+        "title": "Probando",
+        "action": {
+          "type": "Navigate",
+          "to": {
+            "type": "Level",
+            "id": "local-17298222-04ef-4a32-bf33-5ecc559926ae"
+          }
+        }
+      }
+    ],
+    "configuration": {
+      "options": []
+    }
+  }
+  
