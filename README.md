@@ -1,0 +1,2 @@
+# wanpatan.github.io
+Idk
